@@ -11,5 +11,5 @@ For this project data was collected from three different sources :
 
    -  twitter API was queryed for each tweet's JSON data using Python's Tweepy library
 
-   - The tweet image predictions file (image_predictions.tsv) for each tweet according to a neural network , which is hosted on Udacity's servers .
+   - The tweet image predictions file (image_predictions.tsv) for each tweet according to a neural network , which is hosted on Udacity's servers 
 
