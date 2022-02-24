@@ -7,9 +7,9 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 
 For this project data was collected from three different sources :
 
-    TheWeRateDogs Twitter archive. The ‘twitter-archive-enhanced-2.csv’file was provided by Udacity ,This archive contains basic tweet data (tweet ID, timestamp, text, etc.)for all 5000+ of their tweets as they stood on August 1, 2017.
+   - TheWeRateDogs Twitter archive. The ‘twitter-archive-enhanced-2.csv’file was provided by Udacity ,This archive contains basic tweet data (tweet ID, timestamp, text, etc.)for all 5000+ of their tweets as they stood on August 1, 2017.
 
-    twitter API was queryed for each tweet's JSON data using Python's Tweepy library
+   -  twitter API was queryed for each tweet's JSON data using Python's Tweepy library
 
-    The tweet image predictions file (image_predictions.tsv) for each tweet according to a neural network , which is hosted on Udacity's servers .
+   - The tweet image predictions file (image_predictions.tsv) for each tweet according to a neural network , which is hosted on Udacity's servers .
 
