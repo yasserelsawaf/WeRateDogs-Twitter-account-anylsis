@@ -1,5 +1,4 @@
 # WeRateDogs-Twitter-account-anylsis
-Anlysis for WeRateDogs which is a Twitter account that rates people's dogs with a humorous comment about the dog.
 ![cover](https://user-images.githubusercontent.com/100370599/155601112-8f5d5b5c-0f88-4b62-9f38-64f14c3d0fc9.png)
 
 WeRateDogs insights
